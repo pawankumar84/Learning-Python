@@ -1,0 +1,5 @@
+name = "Aman"
+age = 20
+
+print(name)
+print(age)
